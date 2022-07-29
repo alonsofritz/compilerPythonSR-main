@@ -1,0 +1,8 @@
+GRAMÁTICA P/ UTILIZAR NO https://cyberzhg.github.io/toolbox/lr0
+
+BEAUTIFY TABLE: https://beautifytools.com/html-beautifier.php
+
+HTML TO CSV: https://products.groupdocs.app/conversion/html-to-csv
+
+CSV TO EXCEL: https://convertio.co/pt/csv-xlsx/
+	      	  https://cloudconvert.com/csv-to-xlsx

@@ -1,0 +1,1 @@
+!!WARNING!! {neverUsed} foi declarada mas nao eh utilizada!!WARNING!! {variavelBoolean} foi declarada mas nao eh utilizada

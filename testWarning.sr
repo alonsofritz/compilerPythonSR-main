@@ -1,0 +1,36 @@
+## Comentario
+
+Number neverUsed;
+Number variavelNumber;
+Number variavelNumberDois = 2;
+String variavelString = '2';
+String varString = 'Senpai';
+Boolean variavelBoolean;
+Boolean varBoolFalse = false;
+Boolean varBoolTrue = true;
+Number i;
+
+variavelNumber = variavelNumber + 20 ;
+variavelString = 'YAMERO';
+
+for ( i = 0, i < 10, i = i + 1 ) { 
+    write(variavelString);
+}
+
+if ( Number varUm = 0 > 10) {
+    read(variavelString);
+}
+
+if ( variavelNumber > varNumber ) {
+    read(variavelString);
+}
+else {
+    write(varString);
+}
+
+if ( varUm > 10) {
+    read(variavelString);
+}
+else {
+    write(10);
+}
